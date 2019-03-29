@@ -2,11 +2,12 @@
 Demo at https://joseph-allen-react-starter.netlify.com/
 
 A good React App has:
-* Linting
-* Automated Testing
-* Material UI
-* Theming solution
-* Deploys to Netlify
+* Linting [x]
+* Automated Testing [x]
+* Material UI [x]
+* Theming solution [x]
+* Deploys to Netlify [x]
+* Routing []
 
 ## Installation
 
