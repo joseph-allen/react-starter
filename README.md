@@ -1,12 +1,12 @@
-# react-starter
+# React-starter
+Demo at https://joseph-allen-react-starter.netlify.com/
+
 A good React App has:
 * Linting
 * Automated Testing
 * Material UI
 * Theming solution
 * Deploys to Netlify
-
-# React-starter
 
 ## Installation
 
